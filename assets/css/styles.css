@@ -1,0 +1,26 @@
+.header {
+  background-color: #c5d6c5 !important;
+  border-bottom: 1px solid #b8b8b8;
+}
+.header ul a {
+  color: white !important;
+}
+.section1 {
+  background-color: #c5d6c5;
+}
+.vector-1 {
+  background-color: #53c8a1;
+  padding: 90px 241px 275px 197px;
+  border-top-left-radius: 63px;
+}
+.vector-container {
+  padding-top: 77px;
+  background-color: #c5d6c5 !important;
+}
+.section1-text {
+  padding-top: 152px !important;
+}
+.vector-2 {
+  padding: 164px 183px;
+  background-color: #27bdc7 !important;
+}
